@@ -1,0 +1,44 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+Tried aggregator 1 time.
+MIP Presolve eliminated 3460 rows and 0 columns.
+MIP Presolve modified 6194 coefficients.
+Reduced MIP has 225720 rows, 72601 columns, and 815372 nonzeros.
+Reduced MIP has 3800 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.20 sec. (300.53 ticks)
+Found incumbent of value 17682.000000 after 0.38 sec. (514.66 ticks)
+Probing fixed 0 vars, tightened 1 bounds.
+Probing time = 0.04 sec. (34.63 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 225720 rows, 72601 columns, and 815372 nonzeros.
+Reduced MIP has 3800 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.41 sec. (407.05 ticks)
+Probing time = 0.04 sec. (33.74 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 107.51 sec. (29817.78 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                        17682.0000     1319.0000            92.54%
+*     0+    0                        17369.0000     1319.0000            92.41%
+      0     0     1319.0000  2597    17369.0000     1319.0000    54059   92.41%
+      0     0     1325.2034  2805    17369.0000    Cuts: 5130    82943   92.37%
+      0     0     1333.0207  3142    17369.0000    Cuts: 3848   359503   92.33%
+
+Cover cuts applied:  1
+Implied bound cuts applied:  546
+Flow cuts applied:  710
+Mixed integer rounding cuts applied:  2767
+Gomory fractional cuts applied:  4
+
+Root node processing (before b&c):
+  Real time             = 3600.09 sec. (2164999.78 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) = 3600.09 sec. (2164999.78 ticks)

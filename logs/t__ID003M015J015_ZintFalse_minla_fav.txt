@@ -1,0 +1,73 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+Parallel mode: deterministic, using up to 8 threads for concurrent optimization.
+Tried aggregator 1 time.
+LP Presolve eliminated 89 rows and 0 columns.
+Reduced LP has 71446 rows, 22276 columns, and 254492 nonzeros.
+Presolve time = 0.02 sec. (40.32 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =           911.000000
+Perturbation started.
+Iteration:   198   Dual objective     =           911.000000
+Initializing dual steep norms . . .
+Iteration:   199   Dual objective     =           911.000198
+Iteration:  1015   Dual objective     =           911.014073
+Iteration:  1979   Dual objective     =           911.014299
+Iteration:  2858   Dual objective     =           911.014769
+Iteration:  3664   Dual objective     =           911.014936
+Iteration:  4421   Dual objective     =           911.015359
+Iteration:  5277   Dual objective     =           911.015684
+Iteration:  6099   Dual objective     =           911.016061
+Iteration:  6741   Dual objective     =           911.016129
+Iteration:  7386   Dual objective     =           911.016246
+Iteration:  7939   Dual objective     =           911.016285
+Iteration:  8457   Dual objective     =           911.016436
+Iteration:  8882   Dual objective     =           911.016506
+Iteration:  9309   Dual objective     =           911.016661
+Iteration:  9745   Dual objective     =           911.016845
+Iteration: 10098   Dual objective     =           911.016871
+Iteration: 10647   Dual objective     =           911.017718
+Iteration: 11049   Dual objective     =           911.017759
+Iteration: 11574   Dual objective     =           911.017934
+Iteration: 11994   Dual objective     =           911.017989
+Iteration: 12517   Dual objective     =           911.018137
+Iteration: 12905   Dual objective     =           911.018239
+Iteration: 13228   Dual objective     =           911.018253
+Iteration: 13670   Dual objective     =           911.018344
+Iteration: 14075   Dual objective     =           911.018412
+Iteration: 14472   Dual objective     =           911.018425
+Iteration: 14922   Dual objective     =           911.018678
+Iteration: 15291   Dual objective     =           911.018735
+Iteration: 15658   Dual objective     =           911.018751
+Iteration: 16144   Dual objective     =           911.018858
+Iteration: 16557   Dual objective     =           911.018941
+Iteration: 16907   Dual objective     =           911.018973
+Iteration: 17283   Dual objective     =           911.018994
+Iteration: 17730   Dual objective     =           911.019049
+Iteration: 18106   Dual objective     =           911.019071
+Iteration: 18462   Dual objective     =           911.019081
+Iteration: 18856   Dual objective     =           911.019106
+Iteration: 19201   Dual objective     =           911.019122
+Iteration: 19540   Dual objective     =           911.019129
+Iteration: 19962   Dual objective     =           911.019153
+Iteration: 20340   Dual objective     =           911.020434
+Iteration: 20721   Dual objective     =           911.020443
+Iteration: 21065   Dual objective     =           911.020450
+Iteration: 21474   Dual objective     =           911.020456
+Iteration: 21821   Dual objective     =           911.020465
+Iteration: 22124   Dual objective     =           911.020468
+Iteration: 22431   Dual objective     =           911.020478
+Iteration: 22751   Dual objective     =           911.020479
+Iteration: 23055   Dual objective     =           911.020489
+Iteration: 23369   Dual objective     =           911.020496
+Iteration: 23696   Dual objective     =           911.020506
+Iteration: 24025   Dual objective     =           911.020519
+Iteration: 24352   Dual objective     =           911.020530
+Iteration: 24716   Dual objective     =           911.020535
+Iteration: 25098   Dual objective     =           911.020538
+Removing perturbation.
+Iteration: 25174   Dual objective     =           911.000000
+
+Dual simplex solved model.
+

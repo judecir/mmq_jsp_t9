@@ -1,0 +1,68 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+Parallel mode: deterministic, using up to 8 threads for concurrent optimization.
+Tried aggregator 1 time.
+LP Presolve eliminated 173 rows and 0 columns.
+Reduced LP has 71362 rows, 22276 columns, and 254324 nonzeros.
+Presolve time = 0.02 sec. (40.82 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =           935.000000
+Perturbation started.
+Iteration:   195   Dual objective     =           935.000000
+Initializing dual steep norms . . .
+Iteration:   196   Dual objective     =           935.000190
+Iteration:  1122   Dual objective     =           935.010992
+Iteration:  2028   Dual objective     =           935.012556
+Iteration:  2962   Dual objective     =           935.013068
+Iteration:  3872   Dual objective     =           935.014387
+Iteration:  4849   Dual objective     =           935.016518
+Iteration:  5580   Dual objective     =           935.017226
+Iteration:  6311   Dual objective     =           935.043730
+Iteration:  7079   Dual objective     =           954.794166
+Iteration:  7739   Dual objective     =           954.794379
+Iteration:  8319   Dual objective     =           968.595865
+Iteration:  8847   Dual objective     =           968.596629
+Iteration:  9447   Dual objective     =           968.596893
+Iteration: 10013   Dual objective     =           970.569890
+Iteration: 10611   Dual objective     =           973.426813
+Iteration: 11179   Dual objective     =           974.225891
+Iteration: 11746   Dual objective     =           975.871016
+Iteration: 12555   Dual objective     =           975.878060
+Iteration: 13358   Dual objective     =           976.594709
+Iteration: 14202   Dual objective     =           979.441873
+Iteration: 14856   Dual objective     =           979.441920
+Iteration: 15414   Dual objective     =           979.452131
+Iteration: 15842   Dual objective     =           979.452138
+Iteration: 16240   Dual objective     =           979.452147
+Iteration: 16638   Dual objective     =           979.452166
+Iteration: 17112   Dual objective     =           979.452222
+Iteration: 17512   Dual objective     =           979.452306
+Iteration: 17933   Dual objective     =           979.452620
+Iteration: 18464   Dual objective     =           979.455049
+Markowitz threshold set to 0.1
+Iteration: 18874   Dual objective     =           979.469686
+Iteration: 19314   Dual objective     =           979.516568
+Iteration: 19738   Dual objective     =           979.516977
+Iteration: 20188   Dual objective     =           979.528186
+Iteration: 20592   Dual objective     =           979.536016
+Iteration: 20986   Dual objective     =           979.539599
+Iteration: 21368   Dual objective     =           979.564780
+Iteration: 21747   Dual objective     =           979.565157
+Iteration: 22166   Dual objective     =           979.567285
+Iteration: 22626   Dual objective     =           979.567482
+Iteration: 23017   Dual objective     =           979.567532
+Iteration: 23122   Dual objective     =           979.567595
+Iteration: 23562   Dual objective     =           979.568430
+Iteration: 23978   Dual objective     =           979.568683
+Iteration: 24440   Dual objective     =           979.572298
+Iteration: 24958   Dual objective     =           979.572675
+Iteration: 25496   Dual objective     =           979.575158
+Iteration: 25933   Dual objective     =           979.575348
+Iteration: 26358   Dual objective     =           979.577607
+Iteration: 26737   Dual objective     =           979.580984
+Iteration: 27171   Dual objective     =           979.581466
+Removing perturbation.
+
+Dual simplex solved model.
+
